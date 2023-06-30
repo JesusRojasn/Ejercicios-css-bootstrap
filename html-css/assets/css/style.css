@@ -1,0 +1,35 @@
+body {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 1.5em;
+}
+
+div#main h3 {
+   color: blue;
+   text-align: center;
+}
+
+div#main {
+   background-color: grey;
+   align-items: center;
+   margin: 30px;
+   padding: 30px;
+}
+
+div.alerta {
+   color: #72353d;
+   background-color: #ead2d5;
+}
+.blue,
+.red {
+   width: 40%;
+   height: 200px;
+   padding: 20px;
+   border-radius: 50px;
+}
+
+.blue {
+   background-color: blue;
+}
+.red {
+   background-color: red;
+}

@@ -1,0 +1,10 @@
+body {
+   background: #5936ba;
+   background: radial-gradient(at left center, #5936ba, #a1e8cb);
+}
+img:hover {
+   background: rgb(255, 255, 255, 0.2);
+
+   backdrop-filter: blur(40px);
+   box-shadow: 0px 0px 0px 12px rgba(255, 255, 255, 0.2);
+}
