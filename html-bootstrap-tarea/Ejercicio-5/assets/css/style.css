@@ -1,6 +1,6 @@
 body {
    margin: 5% 5% 9%;
-   background-image: url(/assets/imgs/suelo-madera-pizarra.jpg);
+   background-image: url(/Ejercicio-5/assets/imgs/suelo-madera-pizarra.jpg);
    background-position: 10%;
 }
 
@@ -14,4 +14,10 @@ body {
 }
 a {
    color: black;
+}
+
+.glass {
+   background: rgb(255, 255, 255, 0.2);
+   backdrop-filter: blur(40px);
+   color: white;
 }

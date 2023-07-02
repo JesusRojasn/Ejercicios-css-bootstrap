@@ -13,21 +13,3 @@ body {
    width: 100%;
    justify-content: center;
 }
-
-h2,
-p,
-.btn {
-   display: flex;
-   justify-content: center;
-   padding-bottom: 10px;
-   text-align: center;
-}
-button {
-   width: 100px;
-   height: 25px;
-   border-radius: 10px;
-   background-color: aquamarine;
-}
-button:hover {
-   background-color: rgb(7, 112, 77);
-}
